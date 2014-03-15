@@ -28,3 +28,5 @@ packages/
 _ReSharper*
 *.vs10x
 *.docstates
+Backup
+UpgradeLog.htm
